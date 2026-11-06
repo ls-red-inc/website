@@ -1,0 +1,26 @@
+{
+  "title": "Lee's Summit Robotics Education and Development Inc.",
+  "description": "Advancing STEM and robotics education through hands-on learning, robotics, engineering,\nprogramming, mentorship, competition, leadership development, and related educational activities.",
+  "board-members": [
+    {
+      "name": "Taylor Scafe",
+      "role": "President"
+    },
+    {
+      "name": "Cameron Talley",
+      "role": "Vice President"
+    },
+    {
+      "name": "Levi Madden",
+      "role": "Secretary"
+    },
+    {
+      "name": "Joella Sommerhauser",
+      "role": "Treasurer"
+    },
+    {
+      "name": "Hollie Zabroski",
+      "role": "Parent Advocate"
+    }
+  ]
+}
