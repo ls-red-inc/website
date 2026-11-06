@@ -1,0 +1,19 @@
+media: src/images
+content:
+  - name: home
+    label: Home Page
+    type: file
+    path: src/data/home.json
+    fields:
+      - name: title
+        type: string
+      - name: description
+        type: text
+      - name: board-members
+        type: object
+        list: true
+        fields:
+          - name: name
+            type: string
+          - name: role
+            type: string
